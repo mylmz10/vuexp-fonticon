@@ -1,0 +1,19 @@
+{
+  "name": "vuexp-fonticon",
+  "version": "0.1.0",
+  "private": true,
+  "description": "VueXP Font Icon Loader",
+  "main": "src/main",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mylmz10/vuexp-fonticon.git"
+  },
+  "scripts": {},
+  "dependencies": {
+    "nativescript-fonticon": "2.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/mylmz10/vuexp-fonticon/issues"
+  },
+  "homepage": "https://github.com/mylmz10/vuexp-fonticon#readme"
+}

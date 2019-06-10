@@ -5,10 +5,10 @@ Use custom font icon collections seamlessly with VueXP.
 ## Install the vuexp-fonticon plugin
 
 ```
-npm install git+https://github.com/mylmz10/vuexp-fonticon.git --save
+npm install vuexp-fonticon --save
 ```
 
-## Add the CSS
+## Add CSS
 
 Import your fonticon's font files (normally a .ttf, TrueType Font) into fonts. FontAwesome, for example, has a font file called fontawesome-webfont.ttf.
 

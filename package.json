@@ -8,6 +8,7 @@
     "url": "https://github.com/mylmz10/vuexp-fonticon.git"
   },
   "scripts": {},
+  "licence": "MIT",
   "dependencies": {
     "nativescript-fonticon": "2.0.0"
   },

@@ -1,3 +1,3 @@
-import { fonticon } from "nativescript-fonticon"; //eslint-disable-line
+import { fonticon } from "nativescript-akylas-fonticon"; //eslint-disable-line
 
 export default fonticon;

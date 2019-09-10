@@ -10,7 +10,7 @@
   "scripts": {},
   "licence": "MIT",
   "dependencies": {
-    "nativescript-fonticon": "2.0.0"
+    "nativescript-akylas-fonticon": "2.0.6"
   },
   "bugs": {
     "url": "https://github.com/mylmz10/vuexp-fonticon/issues"

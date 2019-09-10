@@ -1,4 +1,4 @@
-import { TNSFontIcon } from "nativescript-fonticon";
+import { TNSFontIcon } from "nativescript-akylas-fonticon";
 
 class Loader {
   constructor() {

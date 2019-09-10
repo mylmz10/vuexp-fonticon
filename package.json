@@ -1,6 +1,6 @@
 {
   "name": "vuexp-fonticon",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "VueXP Font Icon Loader",
   "main": "src/main",
   "repository": {
@@ -10,7 +10,7 @@
   "scripts": {},
   "licence": "MIT",
   "dependencies": {
-    "nativescript-fonticon": "2.0.0"
+    "nativescript-akylas-fonticon": "2.0.6"
   },
   "bugs": {
     "url": "https://github.com/mylmz10/vuexp-fonticon/issues"
